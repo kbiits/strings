@@ -9,7 +9,7 @@ public class DetermineIfStringHalvesAreAlike {
         System.out.println(halvesAreAlike("book"));
     }
 
-    public static Map<Character, Integer> map = new HashMap<>() {
+    public static Map<Character, Integer> map = new HashMap<Character, Integer>() {
         {
             put('a', 1);
             put('i', 1);

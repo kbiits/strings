@@ -11,7 +11,7 @@ public class LastSubstringInLexicographicalOrder {
         char[] chs = s.toCharArray();
         Arrays.sort(chs);
         s = String.valueOf(chs);
-        List<String> result = solve("", s, new ArrayList<>());
+        List<String> result = solve("", s, new ArrayList<String>());
         System.out.println(result.get(result.size() - 1));
     }
 
