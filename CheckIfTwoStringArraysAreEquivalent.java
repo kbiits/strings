@@ -1,4 +1,4 @@
-package strings;
+package nabiel.strings;
 
 // resource : https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 public class CheckIfTwoStringArraysAreEquivalent {

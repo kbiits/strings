@@ -1,4 +1,4 @@
-package strings;
+package nabiel.strings;
 
 // resource : https://leetcode.com/problems/to-lower-case/
 public class ToLowerCase {

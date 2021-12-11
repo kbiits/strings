@@ -1,4 +1,4 @@
-package strings;
+package nabiel.strings;
 
 // resource : https://leetcode.com/problems/defanging-an-ip-address/
 public class DefangingIpAddress {

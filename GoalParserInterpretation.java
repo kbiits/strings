@@ -1,4 +1,4 @@
-package strings;
+package nabiel.strings;
 
 // resource : https://leetcode.com/problems/goal-parser-interpretation/
 public class GoalParserInterpretation {
